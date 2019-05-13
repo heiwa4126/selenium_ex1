@@ -1,4 +1,4 @@
-# 概要
+# selenium_ex1
 
 Ubuntu 18.04LTS(Xなし)上で、
 headless Chromium + Selenium で
