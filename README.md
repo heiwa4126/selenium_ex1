@@ -1,7 +1,7 @@
 # selenium_ex1
 
 Ubuntu 18.04LTS(Xなし)上で、
-headless Chromium + Selenium で
+python + headless Chromium + Selenium で
 スクリーンショットを撮るサンプル。
 
 # Selenuim の導入
@@ -39,6 +39,6 @@ python 3なのでshebangは `#!/usr/bin/env python3`
 ## 公式など
 - [GitHub - SeleniumHQ/selenium: A browser automation framework and ecosystem.](https://github.com/SeleniumHQ/selenium)
 - [selenium/py at master · SeleniumHQ/selenium · GitHub](https://github.com/SeleniumHQ/selenium/tree/master/py)
-- [Selenium Documentation — Selenium 3.14 documentation](https://seleniumhq.github.io/selenium/docs/api/py/api.html)x
+- [Selenium Documentation — Selenium 3.14 documentation](https://seleniumhq.github.io/selenium/docs/api/py/api.html)
 - [selenium · PyPI](https://pypi.org/project/selenium/)
 - [7. WebDriver API — Selenium Python Bindings 2 documentation](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.action_chains)
