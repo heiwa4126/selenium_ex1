@@ -31,14 +31,21 @@ python 3なのでshebangは `#!/usr/bin/env python3`
 # リンク
 
 ## 参考にしたもの
+
 - [Ubuntu 18.04LTSとchromium-browser(Headless)とpython3でSeleniumする - Qiita](https://qiita.com/tabimoba/items/4ea3404416142187e645)
 - [EC2 UbuntuでGoogle Chromeをヘッドレス実行してスクリーンショットを採取する手順 - Qiita](https://qiita.com/shinsaka/items/37436e256c813d277d6d)
 - [ゼロからはじめるPython(49) Pythonでブラウザ自動操縦してカード明細を自動でダウンロードしよう(その1) | マイナビニュース](https://news.mynavi.jp/article/zeropython-49/)
 - [java - Headless chrome + ignore-certificate-errors - Stack Overflow](https://stackoverflow.com/questions/45510973/headless-chrome-ignore-certificate-errors)
 
 ## 公式など
+
 - [GitHub - SeleniumHQ/selenium: A browser automation framework and ecosystem.](https://github.com/SeleniumHQ/selenium)
 - [selenium/py at master · SeleniumHQ/selenium · GitHub](https://github.com/SeleniumHQ/selenium/tree/master/py)
 - [Selenium Documentation — Selenium 3.14 documentation](https://seleniumhq.github.io/selenium/docs/api/py/api.html)
 - [selenium · PyPI](https://pypi.org/project/selenium/)
+
+
+## その他
+
 - [7. WebDriver API — Selenium Python Bindings 2 documentation](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.action_chains)
+- [List of Chromium Command Line Switches « Peter Beverloo](https://peter.sh/experiments/chromium-command-line-switches/)
